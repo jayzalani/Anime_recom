@@ -1,4 +1,4 @@
-$env:GOOGLE_APPLICATION_CREDENTIALS="C:\All_SF\mlop\keys\tensile-axiom-455919-d5-299826145d42.json"
+$env:GOOGLE_APPLICATION_CREDENTIALS="C:\yoursys\keys\file.json"
 python -m src.data_ingestion
 
 do this to run the This 
