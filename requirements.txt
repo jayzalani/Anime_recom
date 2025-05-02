@@ -1,0 +1,10 @@
+pandas
+numpy
+setuptools
+google-cloud-storage
+pyyaml
+tensorflow
+ipykernel
+joblib
+comet-ml
+dvc

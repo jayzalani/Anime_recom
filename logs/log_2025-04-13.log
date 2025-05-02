@@ -1,0 +1,26 @@
+2025-04-13 23:55:00,160 - INFO - Succesfully read the YAML file
+2025-04-13 23:55:26,584 - INFO - Succesfully read the YAML file
+2025-04-13 23:55:52,900 - INFO - Succesfully read the YAML file
+2025-04-13 23:55:52,903 - INFO - Data Ingestion started
+2025-04-13 23:55:52,903 - INFO - Starting Data ingestion process....
+2025-04-13 23:55:52,903 - INFO - data Ingestion DONE...
+2025-04-13 23:56:56,371 - INFO - Succesfully read the YAML file
+2025-04-13 23:56:56,372 - INFO - Data Ingestion started
+2025-04-13 23:56:56,372 - INFO - Starting Data ingestion process....
+2025-04-13 23:56:59,423 - WARNING - Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
+2025-04-13 23:57:03,461 - WARNING - Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
+2025-04-13 23:57:08,301 - WARNING - Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
+2025-04-13 23:57:08,301 - WARNING - Authentication failed using Compute Engine authentication due to unavailable metadata server.
+2025-04-13 23:57:08,301 - ERROR - Error while downloading data from GCP
+2025-04-13 23:57:08,302 - ERROR - CustomException: Failed to downlaod data | Error: Your default credentials were not found. To set up Application Default Credentials, see https://cloud.google.com/docs/authentication/external/set-up-adc for more information. | File: C:\All_SF\mlop\animerecom\src\data_ingestion.py | Line: 24
+2025-04-13 23:57:08,302 - INFO - data Ingestion DONE...
+2025-04-13 23:58:46,061 - INFO - Succesfully read the YAML file
+2025-04-13 23:58:46,061 - INFO - Data Ingestion started
+2025-04-13 23:58:46,061 - INFO - Starting Data ingestion process....
+2025-04-13 23:58:49,076 - WARNING - Compute Engine Metadata server unavailable on attempt 1 of 3. Reason: timed out
+2025-04-13 23:58:53,157 - WARNING - Compute Engine Metadata server unavailable on attempt 2 of 3. Reason: timed out
+2025-04-13 23:58:58,190 - WARNING - Compute Engine Metadata server unavailable on attempt 3 of 3. Reason: timed out
+2025-04-13 23:58:58,190 - WARNING - Authentication failed using Compute Engine authentication due to unavailable metadata server.
+2025-04-13 23:58:58,190 - ERROR - Error while downloading data from GCP
+2025-04-13 23:58:58,190 - ERROR - CustomException: Failed to downlaod data | Error: Your default credentials were not found. To set up Application Default Credentials, see https://cloud.google.com/docs/authentication/external/set-up-adc for more information. | File: C:\All_SF\mlop\animerecom\src\data_ingestion.py | Line: 24
+2025-04-13 23:58:58,191 - INFO - data Ingestion DONE...
